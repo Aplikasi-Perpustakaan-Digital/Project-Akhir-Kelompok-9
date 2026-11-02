@@ -32,3 +32,5 @@ Melalui aplikasi ini, diharapkan proses pengelolaan perpustakaan menjadi lebih p
 - Mengembangkan simulasi top-up saldo dan transaksi peminjaman buku dengan validasi stok dan saldo. 
 
 - Menerapkan konsep dasar pemrograman, seperti struktur data, fungsi, percabangan, perulangan, dan penanganan kesalahan.
+
+*Fitur per-Role 
