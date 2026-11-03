@@ -39,9 +39,10 @@ Melalui aplikasi ini, diharapkan proses pengelolaan perpustakaan menjadi lebih p
 # Output Dan Penjelasan
 - Menu Utama
 <img width="188" height="104" alt="image" src="https://github.com/user-attachments/assets/684b2419-c6a5-4e6b-83af-2c1cdfaeb1cd" />
-Login: Digunakan oleh pengguna yang sudah memiliki akun untuk masuk ke dalam sistem perpustakaan digital.
-Registrasi: Digunakan oleh pengguna baru untuk membuat akun agar dapat mengakses sistem.
-Keluar: Digunakan untuk mengakhiri atau menutup program.
+
+-Login: Digunakan oleh pengguna yang sudah memiliki akun untuk masuk ke dalam sistem perpustakaan digital.
+-Registrasi: Digunakan oleh pengguna baru untuk membuat akun agar dapat mengakses sistem.
+-Keluar: Digunakan untuk mengakhiri atau menutup program.
 Ketika pengguna memilih 1-3 maka akan lanjut ke menu selanjutnya berdasarkan penjelasan diatas.
 
 # FLOWCHART
