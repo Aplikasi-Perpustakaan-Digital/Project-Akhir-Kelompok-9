@@ -39,17 +39,20 @@ Melalui aplikasi ini, diharapkan proses pengelolaan perpustakaan menjadi lebih p
 ---------------
 ## MENU UTAMA: 
 
-<img width="1913" height="1042" alt="FLOWCHART PA KEL 9 final-Utama drawio" src="https://github.com/user-attachments/assets/18022a09-3b52-496d-926f-c1e6318146d6" />
+<img width="1913" height="1042" alt="FLOWCHART PA KEL 9 final-Utama drawio" src="https://github.com/user-attachments/assets/373015e8-d602-41b6-a7b7-d35e2a255a61" />
+
 <br>Deskripsi: Flowchart menu utama ini menggambarkan alur utama aplikasi perpustakaan digital, mulai dari login, registrasi, hingga keluar. Pengguna dapat membuat akun baru atau masuk menggunakan akun yang sudah ada. Setelah login, sistem membedakan antara akses admin dan user sesuai perannya.
 
 ## MENU ADMIN: 
 
-<img width="2082" height="1377" alt="FLOWCHART PA KEL 9 final-Admin drawio" src="https://github.com/user-attachments/assets/5d72085b-aadd-473f-8c82-de7012181474" />
+<img width="2082" height="1377" alt="FLOWCHART PA KEL 9 final-Admin drawio" src="https://github.com/user-attachments/assets/e2ad4997-2141-47af-b4ff-46de89941f1e" />
+
 <br>Deskripsi: Flowchart menu admin ini menggambarkan proses CRUD (Create, Read, Update, Delete) pada sistem admin. Admin dapat menambah, melihat, mencari, mengubah, dan menghapus data yang tersimpan di file JSON. Setiap tindakan divalidasi dengan pengecekan ID, judul atau penulis dan menampilkan pesan keberhasilan atau kesalahan sesuai hasil proses.
 
 ## MENU USER:
 
-<img width="2186" height="1227" alt="FLOWCHART PA KEL 9 final-User drawio" src="https://github.com/user-attachments/assets/9617a8eb-a0ed-4a77-b2de-5c7a5817524a" />
+<img width="2186" height="1227" alt="FLOWCHART PA KEL 9 final-User drawio" src="https://github.com/user-attachments/assets/0e9e03b3-b08f-48d7-b196-89d5be162a58" />
+
 <br>Deskripsi: Flowchart menu user ini menjelaskan alur aktivitas pengguna dalam aplikasi perpustakaan digital, mulai dari melihat buku, meminjam buku dan melihat invoice, hingga top-up saldo. Setiap proses mencakup pengecekan data, validasi saldo ke file JSON. Setelah transaksi selesai, sistem menampilkan invoice atau saldo terbaru pengguna.
 
 # Aplikasi Perpustakaan Digital Berdasarkan Role
