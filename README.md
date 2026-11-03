@@ -57,8 +57,7 @@ Melalui aplikasi ini, diharapkan proses pengelolaan perpustakaan menjadi lebih p
 
 # Aplikasi Perpustakaan Digital Berdasarkan Role
 ---------------
-## Menu Admin
-** Login Sebagai admin  **
+## Login Sebagai admin 
 
 <img width="297" height="149" alt="Screenshot 2026-11-03 1532333" src="https://github.com/user-attachments/assets/c2620ecf-70d6-421f-9939-3529f817e8fa" />
 
