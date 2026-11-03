@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "judul": "Dilan 1990",
+        "penulis": "Pidi Baiq",
+        "kategori": "Novel",
+        "stok": 7
+    },
+    {
+        "id": 2,
+        "judul": "Naruto",
+        "penulis": "Masashi Kishimoto",
+        "kategori": "Komik",
+        "stok": 10
+    },
+    {
+        "id": 3,
+        "judul": "Harry Potter",
+        "penulis": "J.K. Rowling",
+        "kategori": "Novel",
+        "stok": 12
+    },
+    {
+        "id": 4,
+        "judul": "Bulan",
+        "penulis": "Tere LIye",
+        "kategori": "Novel",
+        "stok": 9
+    },
+    {
+        "id": 5,
+        "judul": "Bumi",
+        "penulis": "Tere Liye",
+        "kategori": "Novel",
+        "stok": 8
+    },
+    {
+        "id": 6,
+        "judul": "The Shining",
+        "penulis": "Stephen King",
+        "kategori": "Horor",
+        "stok": 10
+    },
+    {
+        "id": 7,
+        "judul": "Sejarah Lengkap Perang Dunia 1",
+        "penulis": "Alfi Arifian",
+        "kategori": "Sejarah",
+        "stok": 15
+    },
+    {
+        "id": 8,
+        "judul": "Sekolah itu Candu",
+        "penulis": "Roem Topatimasang",
+        "kategori": "Pendidikan",
+        "stok": 5
+    },
+    {
+        "id": 9,
+        "judul": "Siapa Orang Asli Palestina?",
+        "penulis": "Zafarul Islam Khan",
+        "kategori": "Sejarah",
+        "stok": 6
+    },
+    {
+        "id": 10,
+        "judul": "Doraemon",
+        "penulis": "Fujiko F. Fujio",
+        "kategori": "Komik",
+        "stok": 18
+    }
+]
