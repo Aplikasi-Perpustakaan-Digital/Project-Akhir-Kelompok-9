@@ -34,3 +34,5 @@ Melalui aplikasi ini, diharapkan proses pengelolaan perpustakaan menjadi lebih p
 - Menerapkan konsep dasar pemrograman, seperti struktur data, fungsi, percabangan, perulangan, dan penanganan kesalahan.
 
 # Fitur per-Role
+
+# FLOWCHART
