@@ -179,6 +179,7 @@ Saat user menginput angka 3 program akan menampilkan saldo awal, nominal topup (
 Ketika User menginput angka 4 program akan melakukan Log Out dan kembali ke menu utama
 
 **Menu Utama**
+
 <img width="199" height="117" alt="Screenshot 2026-11-03 161824" src="https://github.com/user-attachments/assets/61042d7e-5262-455b-a5d7-ab97ebbe39ac" />
 
 -Login: Digunakan oleh pengguna yang sudah memiliki akun untuk masuk ke dalam sistem perpustakaan digital.
