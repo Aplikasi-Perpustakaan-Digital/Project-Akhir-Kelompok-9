@@ -40,17 +40,17 @@ Melalui aplikasi ini, diharapkan proses pengelolaan perpustakaan menjadi lebih p
 ## MENU UTAMA: 
 
 <img width="1913" height="1042" alt="FLOWCHART PA KEL 9 final-Utama drawio" src="https://github.com/user-attachments/assets/18022a09-3b52-496d-926f-c1e6318146d6" />
-<br>Deskripsi:
+<br>Deskripsi: Flowchart menu utama ini menggambarkan alur utama aplikasi perpustakaan digital, mulai dari login, registrasi, hingga keluar. Pengguna dapat membuat akun baru atau masuk menggunakan akun yang sudah ada. Setelah login, sistem membedakan antara akses admin dan user sesuai perannya.
 
 ## MENU ADMIN: 
 
 <img width="2082" height="1377" alt="FLOWCHART PA KEL 9 final-Admin drawio" src="https://github.com/user-attachments/assets/5d72085b-aadd-473f-8c82-de7012181474" />
-<br>Deskripsi:
+<br>Deskripsi: Flowchart menu admin ini menggambarkan proses CRUD (Create, Read, Update, Delete) pada sistem admin. Admin dapat menambah, melihat, mencari, mengubah, dan menghapus data yang tersimpan di file JSON. Setiap tindakan divalidasi dengan pengecekan ID, judul atau penulis dan menampilkan pesan keberhasilan atau kesalahan sesuai hasil proses.
 
 <br>MENU USER:
 
 <img width="2186" height="1227" alt="FLOWCHART PA KEL 9 final-User drawio" src="https://github.com/user-attachments/assets/9617a8eb-a0ed-4a77-b2de-5c7a5817524a" />
-<br>Deskripsi
+<br>Deskripsi: Flowchart menu user ini menjelaskan alur aktivitas pengguna dalam aplikasi perpustakaan digital, mulai dari melihat buku, meminjam buku dan melihat invoice, hingga top-up saldo. Setiap proses mencakup pengecekan data, validasi saldo ke file JSON. Setelah transaksi selesai, sistem menampilkan invoice atau saldo terbaru pengguna.
 
 # Aplikasi Perpustakaan Digital Berdasarkan Role
 ---------------
@@ -59,7 +59,7 @@ Melalui aplikasi ini, diharapkan proses pengelolaan perpustakaan menjadi lebih p
 
 <img width="297" height="149" alt="Screenshot 2026-11-03 1532333" src="https://github.com/user-attachments/assets/c2620ecf-70d6-421f-9939-3529f817e8fa" />
 
-Program akan menampilkan beberapa pilihan setelah Admin memilih menu Login dan memasukkan datanya dengan benar dari menu utama Admin. Pada bagian ini, sistem menampilkan lima fitur utama yang berfungsi untuk mengelola data dari perpustakaan digital, yaitu:
+<br>Program akan menampilkan beberapa pilihan setelah Admin memilih menu Login dan memasukkan datanya dengan benar dari menu utama Admin. Pada bagian ini, sistem menampilkan lima fitur utama yang berfungsi untuk mengelola data dari perpustakaan digital, yaitu:
 
 - Tambah Buku –  Menambahkan data buku baru ke dalam database. 
 
@@ -73,8 +73,8 @@ Program akan menampilkan beberapa pilihan setelah Admin memilih menu Login dan m
   
 - Keluar - Mengembalikan pengguna ke menu Admin sebelumnya.
 
-*** 1. Tambah Buku ***
-<img width="411" height="206" alt="Screenshot 2026-11-03 153357" src="https://github.com/user-attachments/assets/7a011f41-e230-4232-9c12-552f439c2acb" />
+***1. Tambah Buku***
+<br><img width="411" height="206" alt="Screenshot 2026-11-03 153357" src="https://github.com/user-attachments/assets/7a011f41-e230-4232-9c12-552f439c2acb" />
 
 Program  ini menampilkan hasil dari pilihan menu yaitu “Tambah Buku”. Pada tahap ini, sistem menampilkan tabel berisi seluruh data buku yang tersimpan di database, dengan isi sebagai berikut:
 
