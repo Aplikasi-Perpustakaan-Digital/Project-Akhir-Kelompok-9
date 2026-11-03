@@ -4,7 +4,7 @@ Kelompok: 9 <br>
 |     Nama Anggota     |    NIM     |                                          Peran                                                   |
 | -------------------- | ---------- | ------------------------------------------------------------------------------------------------ |                                                                                          
 | Fiona Deandra Liani  | 2609116053 | Penyusunan Laporan, Membuat Flowchart, Menjalankan Program di Laporan, Pengecekan Alur Flowchart |
-| Darell Faiz Sinatria | 2609116055 | Logika Program, Pengecekan pada Code, Coding, Pengecekan pada Flowchart                          |
+| Darrel Faiz Sinatria | 2609116055 | Logika Program, Pengecekan pada Code, Coding, Pengecekan pada Flowchart                          |
 | Putrika Juliya Sari  | 2609116057 | Membuat Flowchart, Penyusunan Laporan, Pengecekan Laporan, Mengecek Alur Flowchart               |
 | Choni Yudhistira     | 2609116074 | Menambahkan Error Handling, Membuat data JSON, Menjalankan Alur Program di Laporan               |
 -----------------------------------------------------------------------------------------------------------
