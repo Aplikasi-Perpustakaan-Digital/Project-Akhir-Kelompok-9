@@ -3,7 +3,7 @@
 Kelompok: 9 <br>
 Nama Anggota:
 1. Fiona Deandra Liani | 2609116053
-2. Muhammad Darell Sinatria | 2609116055
+2. Darrell Faiz Sinatria | 2609116055
 3. Putrika Juliya Sari | 2609116057
 4. Choni Yudhistira | 2609116074 <br>
 
@@ -34,5 +34,14 @@ Melalui aplikasi ini, diharapkan proses pengelolaan perpustakaan menjadi lebih p
 - Menerapkan konsep dasar pemrograman, seperti struktur data, fungsi, percabangan, perulangan, dan penanganan kesalahan.
 
 # Fitur per-Role
+---------------
+
+# Output Dan Penjelasan
+- Menu Utama
+<img width="188" height="104" alt="image" src="https://github.com/user-attachments/assets/684b2419-c6a5-4e6b-83af-2c1cdfaeb1cd" />
+Login: Digunakan oleh pengguna yang sudah memiliki akun untuk masuk ke dalam sistem perpustakaan digital.
+Registrasi: Digunakan oleh pengguna baru untuk membuat akun agar dapat mengakses sistem.
+Keluar: Digunakan untuk mengakhiri atau menutup program.
+Ketika pengguna memilih 1-3 maka akan lanjut ke menu selanjutnya berdasarkan penjelasan diatas.
 
 # FLOWCHART
