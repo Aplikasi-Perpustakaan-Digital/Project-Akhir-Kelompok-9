@@ -36,16 +36,8 @@ Melalui aplikasi ini, diharapkan proses pengelolaan perpustakaan menjadi lebih p
 # Fitur per-Role
 ---------------
 
-# Output Dan Penjelasan
-- Menu Utama
-<img width="188" height="104" alt="image" src="https://github.com/user-attachments/assets/684b2419-c6a5-4e6b-83af-2c1cdfaeb1cd" />
-
--Login: Digunakan oleh pengguna yang sudah memiliki akun untuk masuk ke dalam sistem perpustakaan digital.
--Registrasi: Digunakan oleh pengguna baru untuk membuat akun agar dapat mengakses sistem.
--Keluar: Digunakan untuk mengakhiri atau menutup program.
-Ketika pengguna memilih 1-3 maka akan lanjut ke menu selanjutnya berdasarkan penjelasan diatas.
-
 # FLOWCHART
+---------------
 <br>MENU UTAMA: 
 
 <img width="1913" height="1042" alt="FLOWCHART PA KEL 9 final-Utama drawio" src="https://github.com/user-attachments/assets/18022a09-3b52-496d-926f-c1e6318146d6" />
@@ -60,3 +52,14 @@ Ketika pengguna memilih 1-3 maka akan lanjut ke menu selanjutnya berdasarkan pen
 
 <img width="2186" height="1227" alt="FLOWCHART PA KEL 9 final-User drawio" src="https://github.com/user-attachments/assets/9617a8eb-a0ed-4a77-b2de-5c7a5817524a" />
 <br>Deskripsi
+
+# Output Dan Penjelasan
+- Menu Utama
+<img width="188" height="104" alt="image" src="https://github.com/user-attachments/assets/684b2419-c6a5-4e6b-83af-2c1cdfaeb1cd" />
+
+-Login: Digunakan oleh pengguna yang sudah memiliki akun untuk masuk ke dalam sistem perpustakaan digital.
+-Registrasi: Digunakan oleh pengguna baru untuk membuat akun agar dapat mengakses sistem.
+-Keluar: Digunakan untuk mengakhiri atau menutup program.
+Ketika pengguna memilih 1-3 maka akan lanjut ke menu selanjutnya berdasarkan penjelasan diatas.
+
+
