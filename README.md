@@ -73,10 +73,10 @@ Melalui aplikasi ini, diharapkan proses pengelolaan perpustakaan menjadi lebih p
   
 - Keluar - Mengembalikan pengguna ke menu Admin sebelumnya.
 
-***1. Tambah Buku***
+**1. Tambah Buku**
 <br><img width="411" height="206" alt="Screenshot 2026-11-03 153357" src="https://github.com/user-attachments/assets/7a011f41-e230-4232-9c12-552f439c2acb" />
 
-Program  ini menampilkan hasil dari pilihan menu yaitu “Tambah Buku”. Pada tahap ini, sistem menampilkan tabel berisi seluruh data buku yang tersimpan di database, dengan isi sebagai berikut:
+Saat admin menginput angka 1 program  ini menampilkan hasil dari pilihan menu yaitu “Tambah Buku”. Pada tahap ini, sistem menampilkan tabel berisi seluruh data buku yang tersimpan di database, dengan isi sebagai berikut:
 
 - ID – Kode unik untuk setiap buku.
   
@@ -88,17 +88,95 @@ Program  ini menampilkan hasil dari pilihan menu yaitu “Tambah Buku”. Pada t
 
 - Stok – Jumlah buku yang tersedia perpustakaan.
 
-*** 2. Lihat Buku ***
+**2. Lihat Buku**
 
-*** 3. Cari Buku ***
+<img width="689" height="245" alt="Screenshot 2026-11-03 172946" src="https://github.com/user-attachments/assets/4532226e-8f11-4c1b-abc8-cd70ba0b0076" />
 
-*** 4. Ubah Buku ***
 
-*** 5. Hapus Buku ***
+Saat admin menginput angka 2 program akan menampilkan output daftar buku yang tersedia di dalam perpustakaan dalam bentuk tabel yang tersusun rapi. Pada tabel tersebut daftar bukunya berisi ID, Judul, Penulis, Kategori, dan Stok.
 
-*** 6. Keluar ***
+**3. Cari Buku**
+
+<img width="698" height="128" alt="Screenshot 2026-11-03 173010" src="https://github.com/user-attachments/assets/8413014f-9879-4e11-a032-4e3878cbba7b" />
+
+Saat admin menginput angka 3 program akan meminta admin untuk menginput judul/penulis yang ingin dicari, lalu akan menampilkan data dalam bentuk tabel yang berisi ID, Judul, Penulis, Kategori, dan Stok hanya dari data yang ingin dicari.
+
+**4. Ubah Buku**
+
+<img width="684" height="432" alt="Screenshot 2026-11-03 173109" src="https://github.com/user-attachments/assets/c8694a60-514a-4e0c-abe4-ba7e25e2d0d6" />
+
+Saat admin menginput angka 4 program akan menampilkan daftar buku yang sedang tersedia, lalu program akan meminta admin untuk menginput ID, Judul, Penulis, Kategori, dan stok buku. Lalu program akan mengeluarkan output "Data buku berhasil diubah"
+
+**5. Hapus Buku**
+
+<img width="689" height="282" alt="Screenshot 2026-11-03 173142" src="https://github.com/user-attachments/assets/c4efed5c-7af4-4739-b7ab-8d5dfe58d03a" />
+
+Saat admin menginput angka 5 program akan menampilkan daftar buku yang sedang tersedia, lalu meminta admin untuk menguinput ID buku yang ingin dihapus. Program akan bertanya kembali untuk memastikan apakah admin ingin menghapus atau tidak, jika mengetik y maka buku berhasil dihapus.
+
+**6. Keluar**
+
+<img width="959" height="290" alt="Screenshot 2026-11-03 173253" src="https://github.com/user-attachments/assets/ae8b4286-aabe-4b07-9cac-5709c696e86a" />
+
+Saat admin mengetik angka 6 program akan menampilkan output "Logout berhasil", lalu admin akan menuju ke menu utama.
 
 ## Login Sebagai User
+
+<img width="704" height="155" alt="Screenshot 2026-11-03 174943" src="https://github.com/user-attachments/assets/a280944d-6362-44c7-a0c3-c631108b7837" />
+
+Program akan menampilkan beberapa pilihan setelah User memilih menu Login dan memasukkan datanya dengan benar dari menu utama User. Pada bagian ini, sistem menampilkan empat fitur utama yang berfungsi untuk mengelola data dari perpustakaan digital, yaitu:
+
+- Lihat Daftar Buku – Menampilkan daftar buku yang tersedia dalam sistem. 
+
+- Pinjam Buku –  Menampilkan daftar buku yang tersedia dalam sistem.
+
+- Top Up Saldo – Menampilkan menu top up yang berisi nominal dan saldo (awal dan akhir).
+  
+- Keluar - Mengembalikan pengguna ke menu utama sebelumnya.
+
+**1.Lihat Daftar Buku**
+
+<img width="694" height="365" alt="Screenshot 2026-11-03 174956" src="https://github.com/user-attachments/assets/abe3e659-d29d-42d6-a998-b129686edbac" />
+
+Saat user menginput angka 1 program  ini menampilkan hasil dari pilihan menu yaitu “lIHAT Buku”. Pada tahap ini, sistem menampilkan tabel berisi seluruh data buku yang tersimpan di database, dengan isi sebagai berikut:
+
+- ID – Kode unik untuk setiap buku.
+  
+- Judul Buku – Nama buku yang tersedia di perpustakaan.
+  
+- Penulis – Nama dari penulis buku.
+
+- Kategori – Jenis atau genre dari buku yang tersedia di perpustakaan.
+
+- Stok – Jumlah buku yang tersedia perpustakaan.
+
+**2. Pinjam Buku**
+
+<img width="895" height="479" alt="Screenshot 2026-11-03 175208" src="https://github.com/user-attachments/assets/aae3b37f-7887-40d5-a1b6-a09779e2c692" />
+
+Saat user mengetik angka 2 program akan meminta input ID Buku yang ingin dipinjam dengan harga(RP5.000) per buku dan menampilkan saldo yang dimiliki. Lalu program akan meampilkan daftar buku yang berisi ID, Judul, Penulis, Kategori, dan Stok. Setelah itu program akan meminta input ID dan memastikan ulang apakah benar-benar ingin dihapus. Setelah buku berhasil dipinjam program akan menampilkan saldo setelah peminjaman buku
+
+- Invoice
+  
+<img width="929" height="283" alt="Screenshot 2026-11-03 175245" src="https://github.com/user-attachments/assets/74ad7360-fc44-4be0-952e-4a1d3b1a1995" />
+
+<img width="929" height="283" alt="Screenshot 2026-11-03 175245" src="https://github.com/user-attachments/assets/e003f211-fbc0-4dfd-b37f-2dea15ca2aad" />
+
+Program akan menampilkan invoice yang berisi:
+- username dan tanggal
+- Detail pemesanan - Detail pemesanan yang berisi ID, buku, Judul buku, dan biaya pinjam
+- Total pembayaran dan status(berhasil/gagal)
+- Ucapan "terima kasih, jangan lupa dikembalikan yooo"
+Lalu invoice berhasil disimpan di Database 
+
+**3. Top Up Saldo**
+
+- Input saldo dan data saldo
+<img width="698" height="253" alt="Screenshot 2026-11-03 175031" src="https://github.com/user-attachments/assets/cc4ef106-a165-471f-8c88-eac4f39a7908" />
+
+Saat user menginput angka 3 program akan menampilkan saldo awal, nominal topup (0 = batal), output "topup berhasil", dan saldo akhir setelah top up
+
+**4. Keluar**
+Ketika User menginput angka 4 program akan melakukan Log Out dan kembali ke menu utama
 
 # Output Dan Penjelasan
 - Menu Utama
