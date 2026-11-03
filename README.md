@@ -33,17 +33,16 @@ Melalui aplikasi ini, diharapkan proses pengelolaan perpustakaan menjadi lebih p
 
 - Menerapkan konsep dasar pemrograman, seperti struktur data, fungsi, percabangan, perulangan, dan penanganan kesalahan.
 
-# Fitur per-Role
 ---------------
 
 # FLOWCHART
 ---------------
-<br>MENU UTAMA: 
+## MENU UTAMA: 
 
 <img width="1913" height="1042" alt="FLOWCHART PA KEL 9 final-Utama drawio" src="https://github.com/user-attachments/assets/18022a09-3b52-496d-926f-c1e6318146d6" />
 <br>Deskripsi:
 
-<br>MENU ADMIN: 
+## MENU ADMIN: 
 
 <img width="2082" height="1377" alt="FLOWCHART PA KEL 9 final-Admin drawio" src="https://github.com/user-attachments/assets/5d72085b-aadd-473f-8c82-de7012181474" />
 <br>Deskripsi:
@@ -52,6 +51,54 @@ Melalui aplikasi ini, diharapkan proses pengelolaan perpustakaan menjadi lebih p
 
 <img width="2186" height="1227" alt="FLOWCHART PA KEL 9 final-User drawio" src="https://github.com/user-attachments/assets/9617a8eb-a0ed-4a77-b2de-5c7a5817524a" />
 <br>Deskripsi
+
+# Aplikasi Perpustakaan Digital Berdasarkan Role
+---------------
+## Menu Admin
+** Login Sebagai admin  **
+
+<img width="297" height="149" alt="Screenshot 2026-11-03 1532333" src="https://github.com/user-attachments/assets/c2620ecf-70d6-421f-9939-3529f817e8fa" />
+
+Program akan menampilkan beberapa pilihan setelah Admin memilih menu Login dan memasukkan datanya dengan benar dari menu utama Admin. Pada bagian ini, sistem menampilkan lima fitur utama yang berfungsi untuk mengelola data dari perpustakaan digital, yaitu:
+
+- Tambah Buku –  Menambahkan data buku baru ke dalam database. 
+
+- Lihat Buku –  Menampilkan daftar buku yang tersedia dalam sistem.
+
+- Cari Buku – Mencari buku berdasarkan daftar buku yang tersedia di dalam sistem.
+
+- Ubah Buku – Mengubah informasi buku yang sudah terdaftar.
+
+- Hapus Buku – Menghapus buku dari sistem.
+  
+- Keluar - Mengembalikan pengguna ke menu Admin sebelumnya.
+
+*** 1. Tambah Buku ***
+<img width="411" height="206" alt="Screenshot 2026-11-03 153357" src="https://github.com/user-attachments/assets/7a011f41-e230-4232-9c12-552f439c2acb" />
+
+Program  ini menampilkan hasil dari pilihan menu yaitu “Tambah Buku”. Pada tahap ini, sistem menampilkan tabel berisi seluruh data buku yang tersimpan di database, dengan isi sebagai berikut:
+
+- ID – Kode unik untuk setiap buku.
+  
+- Judul Buku – Nama buku yang tersedia di perpustakaan.
+  
+- Penulis – Nama dari penulis buku.
+
+- Kategori – Jenis atau genre dari buku yang tersedia di perpustakaan.
+
+- Stok – Jumlah buku yang tersedia perpustakaan.
+
+*** 2. Lihat Buku ***
+
+*** 3. Cari Buku ***
+
+*** 4. Ubah Buku ***
+
+*** 5. Hapus Buku ***
+
+*** 6. Keluar ***
+
+## Login Sebagai User
 
 # Output Dan Penjelasan
 - Menu Utama
