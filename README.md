@@ -161,8 +161,6 @@ Saat user mengetik angka 2 program akan meminta input ID Buku yang ingin dipinja
   
 <img width="929" height="283" alt="Screenshot 2026-11-03 175245" src="https://github.com/user-attachments/assets/74ad7360-fc44-4be0-952e-4a1d3b1a1995" />
 
-<img width="929" height="283" alt="Screenshot 2026-11-03 175245" src="https://github.com/user-attachments/assets/e003f211-fbc0-4dfd-b37f-2dea15ca2aad" />
-
 Program akan menampilkan invoice yang berisi:
 - username dan tanggal
 - Detail pemesanan - Detail pemesanan yang berisi ID, buku, Judul buku, dan biaya pinjam
